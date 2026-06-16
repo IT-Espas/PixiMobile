@@ -6,6 +6,6 @@ Neue Version herunterladen mit Anpassung des Links > https://releases.pixi.eu/mo
 
 Via GitHub Desktop ins Repository fetchen
 
-Überprüfen im Repo
+Überprüfen im Repository
 
 Have Fun
