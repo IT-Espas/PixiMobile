@@ -16,4 +16,4 @@ Have Fun
 
 Nachtrag .gitignore
 Mit diesem Ruleset werden temporäre Dateien (z.B. .tmp) daran gehindert, ins Repository commited zu werden.
-Bitte nicht verändern > An Admin für anpassan (zusätzliche Dateitypen) wenden!
+Bitte nicht verändern > An Admin für Anpassungen (zusätzliche Dateitypen) wenden!
