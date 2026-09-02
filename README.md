@@ -1,8 +1,8 @@
-# PixiMobile V26.05
+# PixiMobile V26.09
 
 Alte Pixi Version entfernen aus dem Repo
 
-Neue Version herunterladen mit Anpassung des Links > https://releases.pixi.eu/mobile/android/com.pixi.mobile.26.5.0.apk
+Neue Version herunterladen mit Anpassung des Links > https://releases.pixi.eu/mobile/android/com.pixi.mobile.26.9.0.apk
 
 Via GitHub Desktop ins Repository fetchen
 
@@ -11,7 +11,7 @@ Via GitHub Desktop ins Repository fetchen
 Have Fun
 
 
-
+Lukas 02.09 2026 08:52
 
 
 Nachtrag .gitignore
